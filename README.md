@@ -7,3 +7,5 @@ correlation_test.py = Run a correlation test to see which variables affects the 
 main.py = Main program
 
 accuracy_test.py = Accuracy test of predictions. Result is %89.5
+
+.pptx file = Powerpoint presentation explaining the program.
